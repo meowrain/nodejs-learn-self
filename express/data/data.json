@@ -1,0 +1,42 @@
+{
+  "name": "John Doe",
+  "age": 43,
+  "hobbies": [
+    "music", 
+    "skiing", 
+    "hiking"
+  ],
+  "address": {
+    "street": "Main Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10022"
+  },
+  "phones": [
+    {
+      "type": "home",
+      "number": "212-555-1234"
+    },
+    {
+      "type": "office",
+      "number": "646-555-4567" 
+    }
+  ], 
+  "education": {
+    "schools": [
+      {
+        "name": "Springfield Elementary School",
+        "year": "1985"
+      },
+      {
+        "name": "Springfield High School",
+        "year": "1989"
+      }
+    ],
+    "college": { 
+      "name": "Springfield College",
+      "year": "1993",
+      "major": "Computer Science"
+    }
+  }
+}
